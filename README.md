@@ -1,0 +1,4 @@
+# Data-Preprocessing-Web-App
+In this project, Data preprocessing, a component of data preparation, describes any type of processing performed on raw data to prepare it for  another data processing procedure. Data preprocessing transforms the data  into a format that is more easily and effectively.
+For achieving better results from the applied model in Machine Learning projects the format of the data has to be in a proper manner. Some specified Machine Learning model needs information in a specified format, for example, Random Forest algorithm does not support null values, therefore to execute random forest algorithm null values have to be managed from the original raw data set.
+Another aspect is that the data set should be formatted in such a way that more than one Machine Learning and Deep Learning algorithm are executed in one data set, and best out of them is chosen.
